@@ -25,7 +25,7 @@ Este projeto foi desenvolvido como parte de um projeto acadêmico para praticar 
 ## Como Usar <a name="como-usar"></a>
 
 1. Clone o repositório para a sua máquina local.
-2. Execute o arquivo `gestao_funcionarios.py` em um ambiente Python.
+2. Execute o arquivo `folhadepagamento.py` em um ambiente Python.
 3. Siga as instruções apresentadas no console para navegar pelas diferentes funcionalidades do sistema.
 
 ## Contribuição <a name="contribuição"></a>
